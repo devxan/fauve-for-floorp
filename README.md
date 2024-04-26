@@ -1,5 +1,13 @@
+# Cale for Firefox 
+
+(see sidebery-new.css)
+
+For use with [Catppuccin Mocha Mauve](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-mauve-git/) theme
+
+<hr>
+
 <div align="center"><img src="image/logo.png" width=100px height=100px></div>
-<h1 align="center">gale for Firefox</h1>
+<h1 align="center">Cale for Firefox</h1>
 <p align="center">My CSS files to use with Firefox and Sidebery</p>
 
 <hr>
