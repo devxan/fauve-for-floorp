@@ -2,10 +2,6 @@
 
 A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a specific configuration using) [Floorp](https://floorp.app/) or a modification of Firefox.
 
-My goal with these settings was to create a minimalistic yet functional setup
-with Sidebery tuned to match Firefox Default Dark Theme and optimise the
-workspace. If you find any odd behaviour feel free to send a pull request.
-
 ![Screenshot of the full browser with Sidebery opened and a Fauve for Firefox/Sidebery logo](images/thumbnail.png "Fauve for Floorp/Sidebery logo on top of Floorp with Sidebery panel enabled")
 
 ## Installation
