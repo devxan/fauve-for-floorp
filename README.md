@@ -1,6 +1,6 @@
-![The Sideberg logo put inside the Floorp logo and the text "Sidebery; Fauve for Floorp](images/logo.png "Sidebery Fauve for Floorp")
-
 # Fauve for Floorp
+
+![The Sideberg logo put inside the Floorp logo and the text "Sidebery; Fauve for Floorp](images/logo.png "Sidebery Fauve for Floorp")
 
 A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a specific configuration using) Floorp or a modification of Firefox.
 
