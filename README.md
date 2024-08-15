@@ -38,7 +38,7 @@ A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a
 ### Continued installation
 
 3. Open Sidebery settings and locate _Styles editor_ in the navigation. Paste the contents of [sidebery.css](sidebery.css) into the panel that says "Write custom CSS here..."
-4. Get a theme, like [Catppuccin](https://github.com/catppuccin/firefox), [Dracula](https://draculatheme.com/firefox), [Gruvbox](https://addons.mozilla.org/firefox/addon/gruvbox-true-dark/), [Nord](https://addons.mozilla.org/firefox/addon/nord-firefox/), or[Tokyo Night](https://addons.mozilla.org/firefox/addon/tokyo-night-theme-for-firefox/). (optional)
+4. Get a theme, like [Catppuccin](https://github.com/catppuccin/firefox), [Dracula](https://draculatheme.com/firefox), [Gruvbox](https://addons.mozilla.org/firefox/addon/gruvbox-true-dark/), [Nord](https://addons.mozilla.org/firefox/addon/nord-firefox/), or [Tokyo Night](https://addons.mozilla.org/firefox/addon/tokyo-night-theme-for-firefox/). (optional)
 5. Enjoy your new setup! (optional)
 
 ## Additional notes and known issues
