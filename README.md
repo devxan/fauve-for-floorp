@@ -12,7 +12,6 @@ A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a
 ### Enable
 
 - Firefox Photon • Lepton UI
-  - _Automatically hide browser elements >_ Automatically hide Sidebar
   - _Manage browser elements >_ Hide Sidebar Headers
 - _Tab Bar >_ Optimise browser for Vertical Tab Bar
 
@@ -21,12 +20,13 @@ A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a
 - _Firefox Photon • Lepton UI > Tab Bar >_ Combine Tab Bar and Toolbar
 <details>
 
-<summary>Optional options that Xan enabled</summary>
+<summary>Optional options that <a href="https://xan.lol/" target="_blank">Xan</a> enabled</summary>
 
 ### Optional
 
 - _Firefox Photon • Lepton UI_
   - _Lepton Settings >_ Use tweaked Proton design
+  - _Automatically hide browser elements >_ Automatically hide Sidebar
   - _Automatically hide browser elements >_ Automatically hide back button
   - _Automatically hide browser elements >_ Automatically hide forward button
   - _Manage browser elements >_ Enable Lepton's context menu icons
@@ -52,7 +52,7 @@ A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a
 
 ## Credits
 
-- to [Xan](https://xan.lol/) for finally using Floorp after recomemnding it to another person a year prior
+- to [Xan](https://xan.lol/) for finally using Floorp after recommending it to another person a year prior
 - to [@mgastonportillo](https://github.com/mgastonportillo) for their [Gale for FF](https://github.com/mgastonportillo/gale-for-ff)
 - to [u/captainkaba](https://www.reddit.com/user/captainkaba/) for his [Denkfabrik](https://www.reddit.com/r/FirefoxCSS/comments/rqo5z6/some_people_asked_for_the_css_so_here_is_my_setup/) theme (which was used as a base)
 - to Reddit user [u/It_Was_The_Other_Guy](https://www.reddit.com/user/It_Was_The_Other_Guy/) for his [tip](https://www.reddit.com/r/FirefoxCSS/comments/vzcqzn/comment/ig8a8ba/)
