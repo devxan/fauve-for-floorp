@@ -1,6 +1,6 @@
 # Fauve for Floorp
 
-![The Sideberg logo put inside the Floorp logo and the text "Sidebery; Fauve for Floorp](images/logo.png "Sidebery Fauve for Floorp")
+![The Sideberg logo put inside the Floorp logo and the text "Sidebery; Fauve for Floorp](images/logo.png "Sidebery - Fauve for Floorp")
 
 A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a specific configuration using) Floorp or a modification of Firefox.
 
@@ -12,12 +12,12 @@ workspace. If you find any odd behaviour feel free to send a pull request.
 
 ![Screenshot of the full browser with Sidebery opened](images/thumbnail.png)
 
-## How to install?
+## Installation
 
-1. In Firefox, go to `about:config` and set `toolkit.legacyUserProfileCustomizations.stylesheets` to `True`. Make sure you have the [chrome folder](https://www.userchrome.org/how-create-userchrome-css.html) within your Firefox profile
-2. Get [Sidebery v5 (beta)](https://github.com/mbnuqw/sidebery/) if you don't have it already installed
-3. Copy `userChrome.css`, `darkTheme.css` and `private.css` to the chrome folder
-4. Go to Sidebery settings and paste the content of my `sidebery.css` file into _Styles editor > Sidebar_
+1. Install [Sidebery](https://github.com/mbnuqw/sidebery/) from the [addon page](https://addons.mozilla.org/firefox/addon/sidebery/).
+2. In Floorp, go to `about:preferences` and toggle the following options:
+3. Open Sidebery settings and locate _Styles editor_ in the navigation. Paste the contents of [sidebery.css](sidebery.css) into the panel that says "Write custom CSS here..."
+4. Find a theme, like Catppuccin, Dracula, Gruvbox, Noir, Nord, Tokyo Night, or .
 5. Enjoy your new setup!
 
 Set these settings under appearance in Sidebery (optional but recommended):
@@ -26,7 +26,7 @@ Set these settings under appearance in Sidebery (optional but recommended):
 
 ## Known issues
 
-- Due to the width of the tabs, if marks to indicate indentation is enabled, it might produce multiple lines. This can be fixed by increasing the width of tabs.
+- Due to the width of the tabs, if marks to indicate indentation is enabled, multiple lines may show. This can be fixed by increasing the width of tabs.
 
 ## Credits
 
