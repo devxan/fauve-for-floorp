@@ -15,10 +15,10 @@ workspace. If you find any odd behaviour feel free to send a pull request.
 ## Installation
 
 1. Install [Sidebery](https://github.com/mbnuqw/sidebery/) from the [addon page](https://addons.mozilla.org/firefox/addon/sidebery/).
-2. In Floorp, go to `about:preferences` and toggle the following options:
+2. In Floorp, go to `about:preferences` and toggle the following options: (the last 2 are optional)
 3. Open Sidebery settings and locate _Styles editor_ in the navigation. Paste the contents of [sidebery.css](sidebery.css) into the panel that says "Write custom CSS here..."
-4. Find a theme, like Catppuccin, Dracula, Gruvbox, Noir, Nord, Tokyo Night, or .
-5. Enjoy your new setup!
+4. Find a theme, like Catppuccin, Dracula, Gruvbox, Noir, Nord, Tokyo Night, or . (optional)
+5. Enjoy your new setup! (optional)
 
 Set these settings under appearance in Sidebery (optional but recommended):
 
