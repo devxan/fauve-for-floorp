@@ -47,6 +47,7 @@ A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a
 - To replicate this setup in a much more limited -but possibly better integrated fashion- enable these options instead:
   - _Design > Tab Bar Style >_ Vertical Tab Bar
     - Collapse Vertical Tab Bar
+- NOT PROPERLY TESTED WITH Show titles of pinned tabs ENABLED in Sidebery settings. I might introduce fixes to make this function, or you could submit a pull request!
 
 ## Credits
 
