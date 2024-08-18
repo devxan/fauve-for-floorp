@@ -44,10 +44,10 @@ A simple [Sidebery](https://github.com/mbnuqw/sidebery) CSS file for use with (a
 
 - Due to the width of the tabs, if marks to indicate indentation is enabled, multiple lines may show. This can be fixed by increasing the width of tabs.
 - You might want to use a theme, like the [Catppuccin Mocha Mauve](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-mauve-git/) theme used in this repos images.
-- To replicate this setup in a much more limited -but possibly better integrated fashion- enable these options instead:
+- To replicate this setup in a much more limited, but possibly better-integrated fashion (without Sidebery), enable these options instead:
   - _Design > Tab Bar Style >_ Vertical Tab Bar
     - Collapse Vertical Tab Bar
-- NOT PROPERLY TESTED WITH Show titles of pinned tabs ENABLED in Sidebery settings. I might introduce fixes to make this function, or you could submit a pull request!
+- The included styles have not been properly tested with **Show titles of pinned tabs** enabled in Sidebery settings. I might introduce fixes to make this look better, or you could submit a pull request! (Less padding around tabs by default might improve the first item in this list too.)
 
 ## Credits
 
